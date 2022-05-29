@@ -1,1 +1,1 @@
-# vrcpn.github.io
+# searchable vrc patch notes
